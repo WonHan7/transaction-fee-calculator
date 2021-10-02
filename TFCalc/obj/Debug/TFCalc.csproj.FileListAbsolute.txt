@@ -1,0 +1,10 @@
+C:\Users\Danny\Documents\Personal\Projects\transaction-fee-calculator\TFCalc\obj\Debug\TFCalc.csprojAssemblyReference.cache
+C:\Users\Danny\Documents\Personal\Projects\transaction-fee-calculator\TFCalc\obj\Debug\TFCalc.Form1.resources
+C:\Users\Danny\Documents\Personal\Projects\transaction-fee-calculator\TFCalc\obj\Debug\TFCalc.Properties.Resources.resources
+C:\Users\Danny\Documents\Personal\Projects\transaction-fee-calculator\TFCalc\obj\Debug\TFCalc.csproj.GenerateResource.cache
+C:\Users\Danny\Documents\Personal\Projects\transaction-fee-calculator\TFCalc\obj\Debug\TFCalc.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Documents\Personal\Projects\transaction-fee-calculator\TFCalc\bin\Debug\TFCalc.exe.config
+C:\Users\Danny\Documents\Personal\Projects\transaction-fee-calculator\TFCalc\bin\Debug\TFCalc.exe
+C:\Users\Danny\Documents\Personal\Projects\transaction-fee-calculator\TFCalc\bin\Debug\TFCalc.pdb
+C:\Users\Danny\Documents\Personal\Projects\transaction-fee-calculator\TFCalc\obj\Debug\TFCalc.exe
+C:\Users\Danny\Documents\Personal\Projects\transaction-fee-calculator\TFCalc\obj\Debug\TFCalc.pdb
